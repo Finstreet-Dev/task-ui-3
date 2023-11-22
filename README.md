@@ -25,3 +25,5 @@ The hero section is a pivotal part of our design, split into two distinct parts:
 
 ## Usage
 This section outlines how the hero section can be integrated and used in web projects.
+## You should use React js or Next js to develop this section
+ 
