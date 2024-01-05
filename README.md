@@ -26,4 +26,22 @@ The hero section is a pivotal part of our design, split into two distinct parts:
 ## Usage
 This section outlines how the hero section can be integrated and used in web projects.
 ## You should use React js or Next js to develop this section
+
+# How to submit your work
+
+Please clone this repository and send us a zip file containing your work.
+
+Also, please avoid bundling `node_modules` or other installed dependency directories in your zip file.
+
+⚠️ **Make sure not to publish your work on a public repository.** ⚠️
+
+We will grade your project after submission and eventually invite you for a remote live interview with our engineers.
+
+# Presentation
+
+- We will ask you to present your work. Please be prepared to present your work, demo it, and explain your choices.
+- We will ask clarifying questions about your code and your design choices.
+- In addition to the presentation we will ask you to refactor the code, add features, or fix bugs:
+  please be prepared to share your screen during the interview and to code live with us.
+
  
